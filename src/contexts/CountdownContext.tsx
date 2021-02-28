@@ -21,7 +21,7 @@ export const CountdownContext = createContext({} as CountdownContextData)
 export function CountdownProvider({ children }: CountdownProvideProps) {
   const { startNewChallenge } = useContext(ChallengesContext);
 
-  const [time, setTime] = useState(.1 * 60);
+  const [time, setTime] = useState(25 * 60);
   const [isActive, setIsActive] = useState(false);              // se o botão está ativo 
   const [hasFinished, setHasFinished] = useState(false);        //quando a contagem finalizar
 
