@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img width= '300' src=".github/logo-full.svg">
+  <img width= '300' src=".github/logo-full.svg" padding=20px>
 </p>
 
 
@@ -30,3 +31,11 @@ Funciona como o método Pomodoro, onde a cada 25 minutos, há uma pausa para a r
 
 ## 🪄 Aplicação
 
+Para usar a aplicação, basta usar: 
+
+
+
+
+
+---
+Desenvolvido com 💙 por Polyane Tuag
