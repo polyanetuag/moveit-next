@@ -1,12 +1,13 @@
+ &nbsp;
 
 <p align="center">
-  <img width= '300' src=".github/logo-full.svg" padding=20px>
+  <img width= '400' src=".github/logo-full.svg" padding=20px>
 </p>
 
 
 <h3 align="center"> Next Level Week #04 
 
- [API](##-API-(Back-end)) | [WEB](##-WEB-(Front-end)) | [MOBILE](##-MOBILE-(App))
+ [API](##-API-(Back-end)) | [WEB](##-WEB-(Front-end)) |
  
 </h3>
 
@@ -14,7 +15,7 @@
     <!-- <img src=".github/happy-interface.png"> -->
 </h1>
 
----
+
 
 ## 📚 Sobre
 
