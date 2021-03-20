@@ -28,8 +28,21 @@ Funciona como o método Pomodoro, onde a cada 25 minutos, há uma pausa para a r
 
 ## 🪄 Aplicação
 
-Para usar a aplicação, basta usar: 
+Para usar a aplicação, basta clonar o repositório e rodar: 
 
+- Para instalar as dependências 
+
+  ```
+    yarn 
+  ```
+
+- Startar o projeto
+  ```
+    yarn dev
+  ```
+
+## 🗃 Licença
+Este projeto está sob a licença do MIT.
 
 ---
-Desenvolvido com 💙 por Polyane Tuag
+<h3 align="center"> Desenvolvido com 💙 por Polyane Tuag </h3>
