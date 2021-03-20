@@ -6,16 +6,12 @@
 
 
 <h3 align="center"> Next Level Week #04 
-
- [API](##-API-(Back-end)) | [WEB](##-WEB-(Front-end)) |
  
 </h3>
 
 <h1 align="center">
-    <!-- <img src=".github/happy-interface.png"> -->
+    <img src=".github/aplicativoMoveIt.png">
 </h1>
-
-
 
 ## 📚 Sobre
 
@@ -33,9 +29,6 @@ Funciona como o método Pomodoro, onde a cada 25 minutos, há uma pausa para a r
 ## 🪄 Aplicação
 
 Para usar a aplicação, basta usar: 
-
-
-
 
 
 ---
