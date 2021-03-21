@@ -4,10 +4,7 @@
   <img width= '400' src=".github/logo-full.svg" padding=20px>
 </p>
 
-
-<h3 align="center"> Next Level Week #04 
- 
-</h3>
+<h3 align="center"> Next Level Week #04</h3>
 
 <h1 align="center">
     <img src=".github/aplicativoMoveIt.png">
@@ -33,7 +30,7 @@ Para usar a aplicação, basta clonar o repositório e rodar:
 - Para instalar as dependências 
 
   ```
-    yarn 
+    yarn
   ```
 
 - Startar o projeto
