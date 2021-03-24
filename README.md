@@ -23,6 +23,10 @@ Funciona como o método Pomodoro, onde a cada 25 minutos, há uma pausa para a r
 - Typescript
 - NodeJs
 
+---
+## 🎨 Layouts
+
+---
 ## 🪄 Aplicação
 
 Para usar a aplicação, basta clonar o repositório e rodar: 
@@ -30,14 +34,14 @@ Para usar a aplicação, basta clonar o repositório e rodar:
 - Para instalar as dependências 
 
   ```
-    yarn
+    yarn 
   ```
 
 - Startar o projeto
   ```
     yarn dev
   ```
-
+---
 ## 🗃 Licença
 Este projeto está sob a licença do MIT.
 
