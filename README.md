@@ -23,7 +23,7 @@ Funciona como o método Pomodoro, onde a cada 25 minutos, há uma pausa para a r
 ## 🎨 Layouts
 
 <p align="center">
-  <img width= '420' src=".github/aplicativoMoveIt.png" padding=20px>
+  <img width= '450' src=".github/aplicativoMoveIt.png" padding=20px>
 </p>
 
 
