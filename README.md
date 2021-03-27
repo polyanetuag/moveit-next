@@ -23,7 +23,7 @@ Funciona como o método Pomodoro, em que, a cada 25 minutos, há uma pausa para 
 ## 🎨 Layouts
 
 <p align="center">
-  <img width= '450' src=".github/aplicativoMoveIt.png" padding=20px>
+  <img width= '450' src=".github/aplicativoMoveIt.png">
 </p>
 <p align="center">
   <img width= '450' src=".github/layout2.png">
@@ -35,7 +35,7 @@ Funciona como o método Pomodoro, em que, a cada 25 minutos, há uma pausa para 
   <img width= '450' src=".github/layout4.png">
 </p>
 
-
+---
 ## 🪄 Aplicação
 
 Para usar a aplicação, basta clonar o repositório e rodar: 
@@ -50,12 +50,13 @@ Para usar a aplicação, basta clonar o repositório e rodar:
   ```
     yarn dev
   ```
----
+
 - Acessar a url:
   ```
     http://localhost:3000
   ```
-## 🗃 Licença
+  ---
+  ## 🗃 Licença
 Este projeto está sob a licença do MIT.
 
 ---
