@@ -40,7 +40,7 @@ Funciona como o método Pomodoro, em que, a cada 25 minutos, há uma pausa para 
 
 Para usar a aplicação, basta clonar o repositório e rodar: 
 
-- Para instalar as dependências 
+- Instalar as dependências 
 
   ```
     yarn 
