@@ -56,7 +56,7 @@ Para usar a aplicação, basta clonar o repositório e rodar:
     http://localhost:3000
   ```
   ---
-  ## 🗃 Licença
+## 🗃 Licença
 Este projeto está sob a licença do MIT.
 
 ---
