@@ -41,16 +41,13 @@ Funciona como o método Pomodoro, em que, a cada 25 minutos, há uma pausa para 
 Para usar a aplicação, basta clonar o repositório e rodar: 
 
 - Instalar as dependências 
-
   ```
     yarn 
   ```
-
 - Startar o projeto
   ```
     yarn dev
   ```
-
 - Acessar a url:
   ```
     http://localhost:3000
