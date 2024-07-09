@@ -8,7 +8,7 @@
 
 ## 📚 Sobre
 
-Com o intuito de amenizar a ocorrência de doenças causadas pelo uso intensivo das tecnologias, essa aplicação busca incentivar a exercitar o corpo para melhorar sua saúde física e mental. 
+Com o intuito de amenizar a ocorrência de doenças causadas pelo uso intensivo das tecnologias, essa aplicação busca incentivar o exercício do corpo para melhorar sua saúde física e mental. 
 
 Funciona como o método **Pomodoro**, onde a cada 25 minutos, há uma pausa para a realização dos exercícios propostos pela aplicação.
 
