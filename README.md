@@ -44,7 +44,7 @@ Para usar a aplicação, basta clonar o repositório e rodar:
   ```
     yarn 
   ```
-- Startar o projeto
+- Iniciar o projeto
   ```
     yarn dev
   ```
