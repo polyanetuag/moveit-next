@@ -15,7 +15,7 @@ A aplicação funciona da mesma forma que o método *Pomodoro*, onde a cada 25 m
 ## 💻 Tecnologias Utilizadas
 
 - [ReactJS](https://react.dev/)
-- NextJS
+- [NextJS](https://nextjs.org/)
 - Typescript
 - NodeJs
 
