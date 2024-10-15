@@ -17,7 +17,7 @@ A aplicação funciona da mesma forma que o método Pomodoro, onde a cada 25 min
 - [ReactJS](https://react.dev/)
 - [NextJS](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- NodeJs
+- [NodeJs](https://nodejs.org/pt)
 
 ---
 ## 🎨 Layouts
