@@ -48,10 +48,6 @@ Para usar a aplicação, basta clonar o repositório e rodar:
   ```
     yarn dev
   ```
-- Acessar a url:
-  ```
-    http://localhost:3000
-  ```
   ---
 ## 🗃 Licença
 Este projeto está sob a licença do MIT.
