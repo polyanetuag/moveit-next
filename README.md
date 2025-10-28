@@ -50,7 +50,7 @@ Para usar a aplicação, basta clonar o repositório e rodar:
   ```
   ---
 ## 🗃 Licença
-Este projeto está sob a licença do MIT.
+Este projeto está sob a licença do [MIT](https://opensource.org/license/mit).
 
 ---
 Desenvolvido com 💙 por Polyane Tuag 
