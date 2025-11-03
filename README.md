@@ -40,11 +40,13 @@ A aplicação funciona da mesma forma que o método Pomodoro, em que a cada 25 m
 
 Para usar a aplicação, basta clonar o repositório e rodar: 
 
-- Instalar as dependências 
+- Instalar as dependências
+  
   ```
     yarn 
   ```
 - Iniciar o projeto
+  
   ```
     yarn dev
   ```
