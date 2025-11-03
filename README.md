@@ -19,7 +19,7 @@ A aplicação funciona da mesma forma que o método Pomodoro, em que a cada 25 m
 - [Typescript](https://www.typescriptlang.org/)
 - [NodeJs](https://nodejs.org/pt)
 
----
+
 ## 🎨 Layouts
 
 <p align="center">
