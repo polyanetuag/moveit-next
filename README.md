@@ -35,7 +35,6 @@ A aplicação funciona da mesma forma que o método Pomodoro, em que a cada 25 m
   <img width= '450' src=".github/layout4.png">
 </p>
 
----
 ## 🪄 Aplicação
 
 Para usar a aplicação, basta clonar o repositório e rodar: 
