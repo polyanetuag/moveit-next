@@ -37,18 +37,23 @@ A aplicação funciona da mesma forma que o método *Pomodoro*: a cada 25 minuto
 
 ## 🪄 Aplicação
 
-Para usar a aplicação, basta clonar o repositório;
+Para usar a aplicação, basta:
 
-- Instalar as dependências
-  
-  ```
-    yarn 
-  ```
-- Iniciar o projeto
-  
-  ```
-    yarn dev
-  ```
+  ```bash
+# Clonar o repositório
+$ git clone https://github.com/polyanetuag/moveit-next.git
+
+# Entrar na pasta
+$ cd moveit-next
+
+# Instalar as dependencias
+$ yarn ou npm install
+
+# Iniciar o servidor
+$ yarn dev ou npm run dev
+
+```
+
   
 ## 🗃 Licença
 Este projeto está sob a licença do [MIT](https://opensource.org/license/mit).
