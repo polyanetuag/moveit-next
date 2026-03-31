@@ -37,7 +37,7 @@ A aplicação funciona da mesma forma que o método *Pomodoro*: a cada 25 minuto
 
 ## 🪄 Aplicação
 
-Para usar a aplicação, basta:
+Para usar a aplicação:
 
   ```bash
 # Clonar o repositório
