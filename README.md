@@ -8,7 +8,7 @@
 
 ## 📚 Sobre
 
-Com o intuito de amenizar a ocorrência das doenças causadas pelo uso intensivo das tecnologias, a aplicação ***Move.it*** busca incentivar o exercício do corpo para melhorar diariamente sua saúde física e mental. 
+Com o intuito de amenizar a ocorrência das doenças causadas pelo uso intensivo das tecnologias, a aplicação ***Move.it*** busca incentivar o exercício do corpo para melhorar sua saúde física e mental. 
 
 A aplicação funciona da mesma forma que o método *Pomodoro*: a cada 25 minutos, há um timer para realizar uma pausa e fazer os exercícios que são propostos na aplicação.
 
