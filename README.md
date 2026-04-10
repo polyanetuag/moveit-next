@@ -46,7 +46,7 @@ $ git clone https://github.com/polyanetuag/moveit-next.git
 # Entrar na pasta
 $ cd moveit-next
 
-# Instalar as dependencias
+# Instalar as dependências
 $ yarn ou npm install
 
 # Iniciar o servidor
