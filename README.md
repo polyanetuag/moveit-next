@@ -47,10 +47,10 @@ $ git clone https://github.com/polyanetuag/moveit-next.git
 $ cd moveit-next
 
 # Instalar as dependências
-$ yarn ou npm install
+$ yarn *ou* npm install
 
 # Iniciar o servidor
-$ yarn dev ou npm run dev
+$ yarn dev *ou* npm run dev
 
 ```
 
